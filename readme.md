@@ -11,20 +11,14 @@ https://developer.hashicorp.com/terraform/tutorials/azure-get-started/azure-buil
 Create a terraform.tfvars file with the following values 
 
 prefix = "disco"  
-
 location = "eastus2"  
-
 windows_count = 1  
-
 linux_count = 1  
 
 
 mid_user = "miduser"  
-
 mid_password = ""  
-
 mid_instance = "dev1232456"  
-
 mid_name = "MIDTEST"  
 
 
